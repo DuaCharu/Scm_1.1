@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Main branch version: Preliminary feature details for review.
+=======
+This new feature will include user authentication enhancements and UI improvements.
+>>>>>>> feature-update
